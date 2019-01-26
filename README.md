@@ -1,0 +1,2 @@
+# stygdansk
+Pierwsze reposytorium
